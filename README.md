@@ -1,8 +1,8 @@
 <h1 align="center">김진영 | Jin Young Kim</h1>
-<p align="center">데이터로 예측모형을 만들고, 그 예측이 무엇에 근거하는지 해석하는 데이터 분석가 김진영입니다.</p>
+<p align="center">사람과 조직 데이터로 예측모형을 만들고, 그 예측이 무엇에 근거하는지 해석합니다.</p>
 
 <p align="center">
-  <code>머신러닝 예측모형</code> <code>설명가능 AI (SHAP, RuleFit)</code> <code>텍스트 분석과 LLM 활용</code> <code>데이터 품질 관리</code> <code>크롤링 자동화</code>
+  <code>머신러닝 예측모형</code> <code>설명가능 AI (SHAP, RuleFit)</code> <code>텍스트 분석과 LLM 활용</code> <code>불성실 응답 탐지</code> <code>웹 크롤링</code>
 </p>
 
 ## What I Do
