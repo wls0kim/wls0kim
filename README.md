@@ -12,6 +12,18 @@
 - **측정과 데이터 품질**: 잠재 프로파일 분석, 문항반응이론을 활용한 측정 도구와 응답 품질 점검
 - **자동화**: Python을 활용한 데이터 수집과 반복 업무 자동화
 
+## Repositories
+
+| 저장소 | 내용 | 방법 | 관련 성과 |
+|---|---|---|---|
+| [public-sector-topic-modeling](https://github.com/wls0kim/public-sector-topic-modeling) | 온라인 리뷰로 본 공무원의 공직 장단점 인식 | 구조적 토픽 모델링(STM), 공변량 분석 | 한국인사행정학회보(2024) 1저자, 석사학위논문 |
+| [public-sector-turnover-ml](https://github.com/wls0kim/public-sector-turnover-ml) | MZ세대 공무원의 이직의도 예측 | caret 모형 비교, PyCaret, RuleFit | 사회과학연구논총(2025), 산조학회 우수 학술 논문상 |
+| [public-sector-turnover-shap](https://github.com/wls0kim/public-sector-turnover-shap) | SHAP으로 본 이직의도의 심리적 메커니즘 | 랜덤 포레스트, SHAP | 한국심리측정평가학회(2025) 구두 발표 |
+| [public-sector-lpa](https://github.com/wls0kim/public-sector-lpa) | 세대 구분을 넘어선 공무원 하위 집단 탐색 | 잠재 프로파일 분석(LPA) | BK21 아이디어 공모전 대상(2025) |
+| [grad-coursework](https://github.com/wls0kim/grad-coursework) | 대학원 수업 프로젝트와 분석 실습 8건 | 스태킹, CFA, ESEM, LCA 직접 구현, LLM 합성 데이터, GPT-4o | 수업 프로젝트 |
+
+원자료는 공개하지 않고 분석 코드와 연구 개요만 올렸습니다. 외부 기관 과제는 아래 Research Projects에 개요만 적었습니다.
+
 ## Tech Stack
 
 | 분야 | 도구 |
