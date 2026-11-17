@@ -23,6 +23,7 @@
 | [psychometrics-methods](https://github.com/wls0kim/psychometrics-methods) | 측정과 잠재변수 모형 실습 | 척도 CFA, ESEM 재현, LCA 추정 알고리즘 직접 구현 |  |
 | [ml-practice](https://github.com/wls0kim/ml-practice) | 머신러닝 분류 모형 실습 | 모형 비교, 스태킹, 로지스틱 회귀, 랜덤 포레스트 PDP |  |
 | [nlp-llm-practice](https://github.com/wls0kim/nlp-llm-practice) | 텍스트 분석과 LLM 활용 실습 | STM, LLM 합성 데이터, GPT-4o 멀티모달 분류 |  |
+| [lg-aimers-defect-detection](https://github.com/wls0kim/lg-aimers-defect-detection) | 디스플레이 공정 제품 이상 여부 판별 | PyCaret 모형 튜닝, 소프트 보팅, 분류 기준값 조정 | LG Aimers 5기 해커톤 56위(740팀) |
 
 - 원자료는 비공개, 분석 코드와 연구 개요만 공개
 - 외부 기관 과제는 코드 없이 개요만 정리
