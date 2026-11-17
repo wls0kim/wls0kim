@@ -18,7 +18,7 @@
 |---|---|---|---|
 | [public-sector-topic-modeling](https://github.com/wls0kim/public-sector-topic-modeling) | 온라인 리뷰로 본 공무원의 공직 장단점 인식 | 구조적 토픽 모델링(STM), 공변량 분석 | 한국인사행정학회보(2024) 1저자, 석사학위논문 |
 | [public-sector-turnover-ml](https://github.com/wls0kim/public-sector-turnover-ml) | MZ세대 공무원의 이직의도 예측 | caret 모형 비교, PyCaret, RuleFit | 사회과학연구논총(2025), 산조학회 우수 학술 논문상 |
-| [public-sector-turnover-shap](https://github.com/wls0kim/public-sector-turnover-shap) | SHAP으로 본 이직의도의 심리적 메커니즘 | 랜덤 포레스트, SHAP | 한국심리측정평가학회(2025) 구두 발표 |
+| [public-sector-turnover-shap](https://github.com/wls0kim/public-sector-turnover-shap) | SHAP으로 본 이직의도의 심리적 메커니즘 | Gradient Boosting, SHAP | 한국심리측정평가학회(2025) 구두 발표 |
 | [public-sector-lpa](https://github.com/wls0kim/public-sector-lpa) | 세대 구분을 넘어선 공무원 하위 집단 탐색 | 잠재 프로파일 분석(LPA) | BK21 아이디어 공모전 대상(2025) |
 | [psychometrics-methods](https://github.com/wls0kim/psychometrics-methods) | 측정과 잠재변수 모형 실습 | 척도 CFA, ESEM 재현, LCA 추정 알고리즘 직접 구현 | 수업 프로젝트 |
 | [ml-practice](https://github.com/wls0kim/ml-practice) | 머신러닝 분류 모형 실습 | 모형 비교, 스태킹, 로지스틱 회귀, 랜덤 포레스트 PDP | 수업 프로젝트 |
