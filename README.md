@@ -22,7 +22,8 @@
 | [public-sector-lpa](https://github.com/wls0kim/public-sector-lpa) | 세대 구분을 넘어선 공무원 하위 집단 탐색 | 잠재 프로파일 분석(LPA) | BK21 아이디어 공모전 대상(2025) |
 | [grad-coursework](https://github.com/wls0kim/grad-coursework) | 대학원 수업 프로젝트와 분석 실습 8건 | 스태킹, CFA, ESEM, LCA 직접 구현, LLM 합성 데이터, GPT-4o | 수업 프로젝트 |
 
-원자료는 공개하지 않고 분석 코드와 연구 개요만 올렸습니다. 외부 기관 과제는 아래 Research Projects에 개요만 적었습니다.
+- 원자료는 비공개, 분석 코드와 연구 개요만 공개
+- 외부 기관 과제는 아래 Research Projects에 개요만 정리
 
 ## Tech Stack
 
